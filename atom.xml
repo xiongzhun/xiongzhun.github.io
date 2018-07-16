@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>碧落之澜的随笔</title>
+  <title>碧落之澜的博客</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>华为交换机常用命令</title>
-    <link href="http://yoursite.com/2018/07/16/%E5%8D%8E%E4%B8%BA%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
-    <id>http://yoursite.com/2018/07/16/华为交换机常用命令/</id>
+    <link href="http://yoursite.com/2018/07/%E5%8D%8E%E4%B8%BA%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://yoursite.com/2018/07/华为交换机常用命令/</id>
     <published>2018-07-16T07:38:09.000Z</published>
     <updated>2018-07-16T08:39:39.051Z</updated>
     
@@ -42,8 +42,8 @@
   
   <entry>
     <title>写给即将进入高中的弟弟们</title>
-    <link href="http://yoursite.com/2018/07/15/new_start/"/>
-    <id>http://yoursite.com/2018/07/15/new_start/</id>
+    <link href="http://yoursite.com/2018/07/new_start/"/>
+    <id>http://yoursite.com/2018/07/new_start/</id>
     <published>2018-07-15T01:00:41.000Z</published>
     <updated>2018-07-16T06:44:04.508Z</updated>
     
@@ -65,8 +65,8 @@
   
   <entry>
     <title>六月的雨</title>
-    <link href="http://yoursite.com/2018/06/16/%E5%85%AD%E6%9C%88%E7%9A%84%E9%9B%A8/"/>
-    <id>http://yoursite.com/2018/06/16/六月的雨/</id>
+    <link href="http://yoursite.com/2018/06/%E5%85%AD%E6%9C%88%E7%9A%84%E9%9B%A8/"/>
+    <id>http://yoursite.com/2018/06/六月的雨/</id>
     <published>2018-06-16T02:17:35.000Z</published>
     <updated>2018-07-16T07:17:53.212Z</updated>
     
@@ -90,8 +90,8 @@
   
   <entry>
     <title>写给昨天，未来的自己</title>
-    <link href="http://yoursite.com/2016/06/20/%E5%86%99%E7%BB%99%E6%98%A8%E5%A4%A9%EF%BC%8C%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%87%AA%E5%B7%B1/"/>
-    <id>http://yoursite.com/2016/06/20/写给昨天，未来的自己/</id>
+    <link href="http://yoursite.com/2016/06/%E5%86%99%E7%BB%99%E6%98%A8%E5%A4%A9%EF%BC%8C%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%87%AA%E5%B7%B1/"/>
+    <id>http://yoursite.com/2016/06/写给昨天，未来的自己/</id>
     <published>2016-06-20T02:18:23.000Z</published>
     <updated>2018-07-16T07:19:36.615Z</updated>
     
@@ -113,8 +113,8 @@
   
   <entry>
     <title>下雨天</title>
-    <link href="http://yoursite.com/2016/06/12/%E4%B8%8B%E9%9B%A8%E5%A4%A9/"/>
-    <id>http://yoursite.com/2016/06/12/下雨天/</id>
+    <link href="http://yoursite.com/2016/06/%E4%B8%8B%E9%9B%A8%E5%A4%A9/"/>
+    <id>http://yoursite.com/2016/06/下雨天/</id>
     <published>2016-06-12T04:16:49.000Z</published>
     <updated>2018-07-16T07:17:18.943Z</updated>
     
@@ -138,8 +138,8 @@
   
   <entry>
     <title>夏天</title>
-    <link href="http://yoursite.com/2016/06/11/%E5%A4%8F%E5%A4%A9/"/>
-    <id>http://yoursite.com/2016/06/11/夏天/</id>
+    <link href="http://yoursite.com/2016/06/%E5%A4%8F%E5%A4%A9/"/>
+    <id>http://yoursite.com/2016/06/夏天/</id>
     <published>2016-06-11T03:14:56.000Z</published>
     <updated>2018-07-16T07:16:16.946Z</updated>
     
@@ -167,8 +167,8 @@
   
   <entry>
     <title>挽留</title>
-    <link href="http://yoursite.com/2016/06/05/%E6%8C%BD%E7%95%99/"/>
-    <id>http://yoursite.com/2016/06/05/挽留/</id>
+    <link href="http://yoursite.com/2016/06/%E6%8C%BD%E7%95%99/"/>
+    <id>http://yoursite.com/2016/06/挽留/</id>
     <published>2016-06-05T07:14:02.000Z</published>
     <updated>2018-07-16T07:14:38.559Z</updated>
     

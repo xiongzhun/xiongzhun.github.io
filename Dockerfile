@@ -1,11 +1,6 @@
-# Dockerfile for building CentOS images
-FROM       centos:centos6.7
-ENV TZ "Asia/Shanghai"
-ENV TERM xterm
-Run yum clean all && yum makecache
-Run yum install -y pwgen openssh-server git  supervisor python-pip
-RUN yum install -y wget curl tar bzip2  vim-enhanced sudo yum-utils 
-Run yum install -y npm git
+# Dockerfile
+FROM node:slim
+RUN apt-get update && apt-get install -y git ssh-client ca-certificates --no-install-recommends && rm -r /var/lib/apt/lists/*
 Run git clone -b ci https://github.com/xiongzhun/xiongzhun.github.io.git
 Run cd /hexow && git pull
 Run npm install hexo-cli -g

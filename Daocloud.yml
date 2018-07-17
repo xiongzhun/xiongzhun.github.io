@@ -40,6 +40,13 @@
     # 根据Hexo配置的发布方式和地址进行发布
     # 项目_config.yml发布为git方式，且使用了ssh连接，因此才有上面的安装私钥的过程
     - hexo d
+    - cd ./public
+    - git init
+    - git config --global user.name "xiongzhun"
+    - git config --global user.email "xz2048@gmail.com"
+    - git add .
+    - git commit -m "Update docs"
+    - git push --force --quiet "https://github.com/xiongzhun/xiongzhun.github.io.git" master:master
 
     # 删除私钥文件夹
     - rm -rf ~/.ssh/

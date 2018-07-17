@@ -7,4 +7,3 @@ Run npm install hexo-cli -g
 Run cd /xiongzhun.github.io && npm install
 EXPOSE 4000
 EXPOSE 22
-ENTRYPOINT cd /xiongzhun.github.io &&git fetch --all &&git reset --hard origin/master &&hexo clean &&hexo g &&hexo d&& hexo s

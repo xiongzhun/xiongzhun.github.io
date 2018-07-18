@@ -23,7 +23,7 @@ script:
   - hexo g  #生成
 
 after_script:
-  - cd xiongzhun.github.io/public
+  - cd public
   - git init
   - git config user.name "xiongzhun"  #修改name
   - git config user.email "xz2048@aliyun.com"  #修改email

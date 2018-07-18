@@ -18,7 +18,9 @@ script:
   - hexo g  #生成
 
 after_script:
-  - cd ./public
+  - git clone https://github.com/xiongzhun/xiongzhun.github.io.git  # GH_REF是最下面配置的仓库地址
+  - mv pulic/* xiongzhun.github.io/   # 这一步之前的操作是为了保留master分支的提交记录，不然每次git init的话只有1条commit
+  - cd xiongzhun/xiongzhun.github.io
   - git config user.name "xiongzhun"  #修改name
   - git config user.email "xz2048@aliyun.com"  #修改email
   - git add .

@@ -11,6 +11,12 @@ author: 熊谆
 language: zh-Hans
 timezone:
 
+baidu_url_submit:
+  count: 100 # 提交最新的一个链接
+  host: blog.xiongzhun.com
+  token: 7e9Ov7juOKgzfY9T
+  path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里
+
 highlight:
    enable: flase
    line_number: true
@@ -142,6 +148,7 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
+  type: baidu_url_submitter
   type: git
   repo:
         coding: git@git.coding.net:xz2048aliyuncom/xz2048aliyuncom.git,master

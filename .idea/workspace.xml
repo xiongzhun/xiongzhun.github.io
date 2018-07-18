@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b390f6-efce-4d5c-a945-dc4f43ad040f" name="Default" comment="加入gh-pages">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/06/下雨天/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/06/写给昨天，未来的自己/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/06/夏天/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/06/挽留/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2018/06/六月的雨/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2018/07/new_start/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2018/07/华为交换机常用命令/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/2016/06/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/2016/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/2018/06/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/2018/07/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/2018/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/default-skin.b257fa.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/iconfont.16acc2.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/iconfont.45d7ee.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/iconfont.8c627f.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/iconfont.b322fa.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/tooltip.4004ff.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/alipay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/favicon.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/default-skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/screencapture-202-103-39-35-9081-home-indexD-2018-06-07-08_57_18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/scrollbar_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.0cf68a.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.0cf68a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile.992cbe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/slider.e37972.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/笔记/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/随笔/index.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,7 +13,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
@@ -71,6 +46,7 @@
         <option value="$PROJECT_DIR$/Daocloud.yml" />
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/gitignore" />
       </list>
     </option>
   </component>
@@ -412,7 +388,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="710" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2956381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2956381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -420,7 +396,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36084142" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36084142" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -456,7 +432,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.0cf68a.js" />
     <entry file="file://$PROJECT_DIR$/main.0cf68a.css" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/CNAME" />
@@ -507,5 +482,13 @@
     <entry file="file://$PROJECT_DIR$/Daocloud.yml" />
     <entry file="file://$PROJECT_DIR$/Dockerfile" />
     <entry file="file://$PROJECT_DIR$/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

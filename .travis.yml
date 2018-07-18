@@ -11,14 +11,17 @@ before_install:
     - export TZ='Asia/Shanghai' # 更改时区
 
 install:
+  - git clone -b ci https://github.com/xiongzhun/xiongzhun.github.io.git ci
+  - cd ci
   - npm install  #安装hexo及插件
 
 script:
+  - cd ci
   - hexo clean  #清除
   - hexo g  #生成
 
 after_script:
-  - cd public
+  - cd ci/public
   - git init
   - git config user.name "xiongzhun"  #修改name
   - git config user.email "xz2048@aliyun.com"  #修改email
@@ -28,7 +31,7 @@ after_script:
 
 branches:
   only:
-    - ci  #只监测master分支，master是我的分支的名称，可根据自己情况设置
+    - gh-pages  #只监测master分支，master是我的分支的名称，可根据自己情况设置
 env:
  global:
    - GH_REF: github.com/xiongzhun/xiongzhun.github.io.git  #设置GH_REF，注意更改yourname

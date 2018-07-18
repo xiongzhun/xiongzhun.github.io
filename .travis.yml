@@ -16,7 +16,9 @@ install:
   - npm install  #安装hexo及插件
 
 script:
-  - git clone -b gh-pages https://github.com/xiongzhun/xiongzhun.github.io.git source
+  - git clone -b gh-pages https://github.com/xiongzhun/xiongzhun.github.io.git ci
+  - mkdir source
+  - mv ci/source/* source/
   - hexo clean  #清除
   - hexo g  #生成
 

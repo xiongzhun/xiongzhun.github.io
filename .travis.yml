@@ -32,8 +32,8 @@ after_script:
   - git push --force --quiet "https://${Travis_Token}@${GH_REF}" master:master  #Travis_Token是在Travis中配置环境变量的名称
 
 branches:
-  only:
-    - gh-pages  #只监测分支
+    - gh-pages
+    - ci
 env:
  global:
    - GH_REF: github.com/xiongzhun/xiongzhun.github.io.git  #设置GH_REF，注意更改yourname

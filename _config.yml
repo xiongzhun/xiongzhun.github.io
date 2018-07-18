@@ -149,7 +149,3 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: baidu_url_submitter
-  type: git
-  repo:
-        coding: git@git.coding.net:xz2048aliyuncom/xz2048aliyuncom.git,master
-        github: git@github.com:xiongzhun/xiongzhun.github.io.git,master

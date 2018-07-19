@@ -26,6 +26,7 @@ script:
 
 
 after_script:
+  - ./qrsync qiniu.json
   - cd public
   - git init
   - git add .

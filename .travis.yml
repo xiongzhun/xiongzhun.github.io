@@ -20,8 +20,10 @@ script:
   - mkdir source
   - mv ci/source/* source/
   - hexo clean  #清除
+  - sed -i 's/<AccessKey>/${AccessKey}/g; s/<SecretKey>/${SecretKey}/g; s/<Bucket>/${Bucket}/g' qiniu.json
   - hexo g  #生成
   - hexo d  #部署，提交百度链接
+
 
 after_script:
   - cd public

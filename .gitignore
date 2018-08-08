@@ -6,3 +6,9 @@ node_modules/
 public/
 .deploy*/
 .idea/*
+*.xml
+source/.idea/source.iml
+*.xml
+*.xml
+.idea/workspace.xml
+*.xml

@@ -3,8 +3,8 @@ title: openstack 企业私有云的驱动力
 date: 2018-04-15 9:00:12
 tags: 学习
 categories: 
-    --技术
-    --openstack
+    - 技术
+    - openstack
 ---
 ## 基于Openstack的企业私有云动力来源：
 ### 1、降低成本

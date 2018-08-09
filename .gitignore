@@ -7,14 +7,4 @@ public/
 .deploy*/
 .idea/*
 *.xml
-source/.idea/source.iml
-*.xml
-*.xml
-.idea/workspace.xml
-*.xml
-*.xml
-.idea/workspace.xml
-*.xml
-.idea/workspace.xml
-*.xml
-.idea/workspace.xml
+source/*

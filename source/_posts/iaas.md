@@ -95,6 +95,3 @@ Policy 决定用户哪些访问权限
 #### 三、核心组件的关系
 ![](../images/link.png)
 ![](../images/contrl.png)
-
-
-

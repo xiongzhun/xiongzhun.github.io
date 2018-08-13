@@ -8,7 +8,7 @@ subtitle:
 description: 追逐梦想的少年
 keywords:
 author: 熊谆
-language: zh-Hans
+language: zh-CN
 timezone:
 
 baidu_url_submit:
@@ -48,25 +48,6 @@ image_minifier:
   optimizationLevel: 2
   pngquant: false
   progressive: false
-
-jsonContent:
-    meta: false
-    pages: false
-    posts:
-      title: true
-      date: true
-      path: true
-      text: false
-      raw: false
-      content: false
-      slug: false
-      updated: true
-      comments: false
-      link: false
-      permalink: false
-      excerpt: false
-      categories: true
-      tags: true
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
@@ -143,7 +124,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
